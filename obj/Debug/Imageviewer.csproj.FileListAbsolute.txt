@@ -1,0 +1,9 @@
+C:\Users\Doctor\Desktop\Image App\Image App\bin\Debug\Image Viewer.exe
+C:\Users\Doctor\Desktop\Image App\Image App\bin\Debug\Image Viewer.pdb
+C:\Users\Doctor\Desktop\Image App\Image App\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Doctor\Desktop\Image App\Image App\obj\Debug\Imageviewer.Form1.resources
+C:\Users\Doctor\Desktop\Image App\Image App\obj\Debug\Imageviewer.Properties.Resources.resources
+C:\Users\Doctor\Desktop\Image App\Image App\obj\Debug\ResGen.read.1.tlog
+C:\Users\Doctor\Desktop\Image App\Image App\obj\Debug\ResGen.write.1.tlog
+C:\Users\Doctor\Desktop\Image App\Image App\obj\Debug\Image Viewer.exe
+C:\Users\Doctor\Desktop\Image App\Image App\obj\Debug\Image Viewer.pdb
